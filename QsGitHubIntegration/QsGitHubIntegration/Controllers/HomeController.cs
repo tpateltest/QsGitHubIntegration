@@ -20,6 +20,7 @@ namespace QsGitHubIntegration.Controllers
             return View();
         }
 
+		/// changes
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
